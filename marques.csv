@@ -4,10 +4,14 @@
 7,480418118654568,E.Leclerc,E.Leclerc,393218,160
 16,176105152520900,Carrefour,Carrefour,246167,639
 25,1456586344652734,MAIF,MAIF,204392,1015
+26,164302750336862,Wish,These ads ran without a disclaimer,187593,1
 27,139331629464336,EDF,EDF,181516,115
 34,123875660969932,ENGIE,ENGIE,134014,1470
+45,163061217080336,Enedis,Enedis,110855,91
 56,315718434933,Crédit Agricole,Crédit Agricole S.A.,92698,77
 59,153342192259,Clarins,Clarins,91211,23
+71,404427720023574,Extrême,Emilie Marie-Hélène Boisselle,79239,8
+75,99340666617,Nettoyons la Nature,E.Leclerc,76745,10
 77,100255681599847,Veolia France,Veolia,75605,573
 78,610275735795477,Kinder Joy of moving,Ferrero France Commerciale,74878,4
 93,170791994261,Audi France,Audi France,64497,3
@@ -19,10 +23,14 @@
 142,81753537108,TotalEnergies,TotalEnergies,38677,32
 152,1717696765155553,Veolia Eau d'Ile-de-France,Veolia Eau d'Ile-de-France,36800,62
 153,61952884477,Sarenza,Sarenza,36784,59
+201,99340666617,Nettoyons la Nature,These ads ran without a disclaimer,26627,4
 206,314443337102,GRDF,These ads ran without a disclaimer,25752,19
+213,"2,18E+15",Saint-Gobain,COMPAGNIE DE SAINT-GOBAIN,25138,12
 218,147048768660936,La Roche-Posay,La Roche-Posay,24416,11
 219,105709216127942,Crédit Coopératif,Crédit Coopératif,24204,38
 222,721787671263055,Banque Française Mutualiste,Banque Française Mutualiste,23517,74
+242,299501810516,Ma Banque BNP Paribas,BNP Paribas,21163,12
+247,100845797055125,LinkedIn,These ads ran without a disclaimer,20411,4
 252,154999229992641,Groupe SNCF,These ads ran without a disclaimer,19887,1
 270,1456586344652734,MAIF,These ads ran without a disclaimer,18433,11
 277,366230539391,Intermarché,These ads ran without a disclaimer,17851,3
@@ -30,26 +38,34 @@
 301,172759396078070,FDJ,FDJ,16203,41
 302,265857076767399,Volvo Car France,Volvo Car France,16049,13
 316,176105152520900,Carrefour,These ads ran without a disclaimer,14806,13
+338,156922821011409,Timberland,PHD Media,13531,13
+347,104392636306,BlaBlaCar,These ads ran without a disclaimer,12730,4
 348,230438980660535,Uber Eats,These ads ran without a disclaimer,12726,1
 349,123875660969932,ENGIE,These ads ran without a disclaimer,12618,58
 358,139331629464336,EDF,These ads ran without a disclaimer,12081,20
+364,106741389347601,Biocoop,These ads ran without a disclaimer,11801,6
 373,297744124702,Mercedes-Benz France,Mercedes-Benz France,11515,5
 381,249355235114951,Klorane France,Klorane France,11107,21
+385,106741389347601,Biocoop,Biocoop,10976,9
 388,103137082036088,Mon projet solaire en partenariat avec EDF ENR,Dolead,10820,43
 411,886390848092524,TGV INOUI,These ads ran without a disclaimer,9970,2
 424,148758255215603,TotalEnergies,These ads ran without a disclaimer,9529,13
 435,131314320266898,Ricard,These ads ran without a disclaimer,9124,1
 446,159713540726473,Primagaz France,Primagaz France,8663,156
 487,209029512461378,U Les Commerçants,These ads ran without a disclaimer,7889,2
+496,1621360578150794,Citroën PSA Retail,These ads ran without a disclaimer,7753,52
 510,167550426627491,Nutella,These ads ran without a disclaimer,7528,3
 511,320473692252,SUEZ France,SUEZ France,7508,17
 535,24287259392,Nestlé,These ads ran without a disclaimer,6885,15
 560,292120406564,SEAT,These ads ran without a disclaimer,6292,9
 588,211577558892620,Groupama Centre Manche,These ads ran without a disclaimer,5696,2
 594,101092033299680,Allianz France,Allianz France,5626,5
+602,226707744012015,Kia France,These ads ran without a disclaimer,5480,5
+603,897016170357398,Kellogg’s France,These ads ran without a disclaimer,5472,1
 608,407666605532,Norauto France,These ads ran without a disclaimer,5337,41
 658,103744558081062,GRDF Hauts-de-France et Normandie,GRDF,4852,42
 679,362371534405251,Decathlon Activités,Decathlon Activités,4678,32
+689,225199119413,Betclic,These ads ran without a disclaimer,4571,17
 715,146613439195230,Michel-Edouard Leclerc,Michel-Edouard Leclerc,4318,123
 730,542088289195054,Nestlé,Nestlé,4200,3
 737,261378092727,Spotify,These ads ran without a disclaimer,4153,1
@@ -69,6 +85,8 @@
 870,170226609767630,AXA,AXA,3134,19
 878,320473692252,SUEZ France,These ads ran without a disclaimer,3099,3
 971,105438471258986,GRDF Auvergne-Rhône-Alpes et PACA,GRDF Sud-Est,2571,13
+985,255364539268,Ruinart,These ads ran without a disclaimer,2486,2
+1011,175192459166704,CIC,These ads ran without a disclaimer,2371,3
 1027,103475618753518,Darty Remise FR,These ads ran without a disclaimer,2326,1
 1038,172759396078070,FDJ,These ads ran without a disclaimer,2286,6
 1049,539784956185869,ENGIE,These ads ran without a disclaimer,2235,5
@@ -86,9 +104,12 @@
 1243,100487645501894,Soleco Énergie Partenaire EDF Solution Habitat,These ads ran without a disclaimer,1657,15
 1244,209995772388611,Dyson,These ads ran without a disclaimer,1651,1
 1245,1646394798839706,ENGIE Home Services,ENGIE,1650,18
+1247,248767351880869,Sophos,These ads ran without a disclaimer,1647,6
 1274,117659068321390,Naturalia,These ads ran without a disclaimer,1568,3
 1334,782314358541363,Natixis,Loopsider,1450,2
 1357,139331629464336,EDF,Explore Media,1425,3
+1365,"2,04E+15",Disney+,These ads ran without a disclaimer,1416,1
+1374,242855389116782,LinkedIn,These ads ran without a disclaimer,1396,2
 1381,25744595715,Billabong,These ads ran without a disclaimer,1389,6
 1382,499580396772295,L'Oréal Group,These ads ran without a disclaimer,1382,4
 1404,155153417881348,EDF à la Réunion,These ads ran without a disclaimer,1336,1
@@ -97,12 +118,14 @@
 1421,191035180963703,Huawei Enterprise,These ads ran without a disclaimer,1305,6
 1436,518836564942104,CSEC EDF SA,CSEC EDF SA,1270,18
 1459,14752904657,Monabanq,These ads ran without a disclaimer,1233,1
+1516,383107145214827,Deliveroo,These ads ran without a disclaimer,1129,3
 1551,10150136746870526,Air France,These ads ran without a disclaimer,1088,2
 1559,101890125359815,France Équipement Partenaire EDF Solution Habitat,These ads ran without a disclaimer,1076,9
 1580,103137082036088,Mon projet solaire en partenariat avec EDF ENR,These ads ran without a disclaimer,1038,7
 1601,294059997286152,Butagaz – Multi-énergies,These ads ran without a disclaimer,1012,9
 1616,566508133498745,Klorane Botanical Foundation,These ads ran without a disclaimer,1000,1
 1645,103744558081062,GRDF Hauts-de-France et Normandie,These ads ran without a disclaimer,969,9
+1664,237680109630917,Sophos France,These ads ran without a disclaimer,950,4
 1679,148041405251444,McDonald's France,These ads ran without a disclaimer,931,1
 1681,121034228024606,Antargaz,These ads ran without a disclaimer,929,29
 1702,102894051651182,Prim'Éco Partenaire EDF Solution Habitat,These ads ran without a disclaimer,904,8
@@ -129,6 +152,7 @@
 2487,315718434933,Crédit Agricole,These ads ran without a disclaimer,397,4
 2507,407666605532,Norauto France,Norauto France,390,12
 2622,228266870940065,Discover AXA,Flora Davy,350,2
+2645,128450347241247,BALENCIAGA,These ads ran without a disclaimer,343,1
 2665,200951273268346,LOTO - FDJ,These ads ran without a disclaimer,337,1
 2685,107448807514023,Thalès Santé,Thalès-Santé,330,2
 2726,604950812848839,Crédit Agricole d'Ile de France,Crédit Agricole d'Ile de France,318,8
@@ -141,13 +165,16 @@
 3572,187891771259726,AXA,These ads ran without a disclaimer,174,4
 3588,1931519480507541,Intermarché Marennes,François Edmond Lucien Brossard,172,24
 3794,543845985671386,Groupama Loire Bretagne,Clémence Elodie Suzanne Champenois,149,5
+3797,949438251766895,Biocoop Saveurs et Saisons,Harold Damien Tiberghien,149,1
 3816,102566424429363,Les bons Amazon,Quentin Bernard Jean-Pierre Oudot,147,10
 3879,176449902493387,Clarins,These ads ran without a disclaimer,140,1
+3907,156922821011409,Timberland,These ads ran without a disclaimer,138,8
 4022,476023229815243,Shell and Turtle,These ads ran without a disclaimer,128,6
 4172,401494186713593,ENGIE Foundation,Niels Axel Lucas Heiligenstein,117,14
 4383,167284276793006,Centre Commercial Carrefour Douai-Flers,These ads ran without a disclaimer,,2
 4587,119405895873,Huawei,These ads ran without a disclaimer,,20
 4595,167174893866288,Amazon Music France,These ads ran without a disclaimer,,2
+4960,2123755627914477,Biocoop Mondeville Bourg,These ads ran without a disclaimer,,1
 5035,395270401075471,Agence Moureton AXA Prévoyance & Patrimoine,These ads ran without a disclaimer,,1
 5170,1568531793401643,Allianz Meyzieu Assurance Schneider,These ads ran without a disclaimer,,3
 5177,146613439195230,Michel-Edouard Leclerc,These ads ran without a disclaimer,,6
@@ -157,6 +184,7 @@
 5481,476861132507300,Fondation  d'Entreprise Crédit Agricole Provence Côte d'Azur,These ads ran without a disclaimer,,1
 5529,104419212934824,CFE-CGC Orange,These ads ran without a disclaimer,,2
 5596,295099003920822,Decathlon Monaco,These ads ran without a disclaimer,,1
+5759,124159174343105,CICAD,These ads ran without a disclaimer,,1
 5779,1608961819144907,FO Carrefour,These ads ran without a disclaimer,,1
 5830,495274900579805,Total,These ads ran without a disclaimer,,1
 5855,450326391674911,Allianz,These ads ran without a disclaimer,,2
@@ -171,18 +199,25 @@
 6672,320473692252,SUEZ France,Inoxia,,1
 6743,821138848069683,Crédit Agricole Mutuel Martinique-Guyane,These ads ran without a disclaimer,,1
 6747,518836564942104,CSEC EDF SA,Vincent Maurice Battal,,1
+7235,103398468787,Saint-Gobain,These ads ran without a disclaimer,,1
 7322,1029400077169692,Groupama Nouvelle-Calédonie,These ads ran without a disclaimer,,4
+7686,404427720023574,Extrême,These ads ran without a disclaimer,,1
 7720,672839522756247,E.Leclerc Alençon,These ads ran without a disclaimer,,2
+8248,267303910778416,Biocoop Vesoul,These ads ran without a disclaimer,,1
 8392,904153349651630,Versmee & Hautcoeur Allianz Assurance Valenciennes et Douchy,Frédéric Versmée,,1
 8465,495716593831385,Crédit Agricole e-immobilier,These ads ran without a disclaimer,,2
 8538,721787671263055,Banque Française Mutualiste,These ads ran without a disclaimer,,1
 8550,2152262484887856,AXA Prévoyance & Patrimoine - Cabinet Gilles Mariotti,These ads ran without a disclaimer,,1
+8594,299501810516,Ma Banque BNP Paribas,These ads ran without a disclaimer,,1
 8635,7558451780,Orange,These ads ran without a disclaimer,,2
 8718,105361911226495,Crédit Agricole de La Réunion,These ads ran without a disclaimer,,3
 8939,240743526492674,GRDF Ile-de-France,These ads ran without a disclaimer,,7
+8943,1053814571405653,Biocoop Louhans,These ads ran without a disclaimer,,1
 9140,1346968012041885,McDonald's Les Mureaux,These ads ran without a disclaimer,,1
 9395,249401105145219,TotalEnergies x Racing,These ads ran without a disclaimer,,1
+10187,2250981008450501,Biocoop Saint Marcellin,These ads ran without a disclaimer,,1
 10551,577107632317862,E.Leclerc Quéven,These ads ran without a disclaimer,,1
+10780,135929023654803,Biocoop Hénin Beaumont,These ads ran without a disclaimer,,1
 10983,472857019534961,TotalEnergies,These ads ran without a disclaimer,,2
 11216,1857033664416127,Mouvement E. Leclerc Réunion,These ads ran without a disclaimer,,1
 11500,421477768047828,TotalEnergies,These ads ran without a disclaimer,,2
@@ -190,12 +225,14 @@
 11655,230295533714164,McDonald's Boulogne-sur-Mer Outreau,These ads ran without a disclaimer,,1
 11782,407728389278489,Fonds Hélène&Édouard Leclerc pour la Culture,These ads ran without a disclaimer,,1
 11859,209540470340,Fréquence Orange,These ads ran without a disclaimer,,4
+12090,100762998006734,Ville de Saint-Gobain,These ads ran without a disclaimer,,1
 12129,196472540876435,McDonald's Six Fours Les Plages,These ads ran without a disclaimer,,1
 12255,81753537108,TotalEnergies,These ads ran without a disclaimer,,1
 12356,115215543180785,SNTLA Amazon,These ads ran without a disclaimer,,1
 12507,347019388835490,Electrolux Professional,These ads ran without a disclaimer,,1
 12797,1533343700292595,Groupama Rhône-Alpes Auvergne,These ads ran without a disclaimer,,2
 13323,103380165110064,Groupama Grand Est,These ads ran without a disclaimer,,1
+13362,"2,18E+15",Saint-Gobain,These ads ran without a disclaimer,,1
 13533,1292872427507585,Au Carrefour Des Energies Et Du Bien-Être,These ads ran without a disclaimer,,1
 13636,1572756266274335,Centre commercial Carrefour Rennes Cesson,These ads ran without a disclaimer,,1
 13647,182530525170658,Crédit Agricole Centre France,These ads ran without a disclaimer,,1
@@ -219,24 +256,32 @@
 16692,1709278142683543,Huawei,These ads ran without a disclaimer,,1
 16784,539302126169219,E.Leclerc Amilly-Montargis,These ads ran without a disclaimer,,1
 17047,209540470340,Fréquence Orange,Michaël Thomas Yannick Cormier,,1
+17412,236973903720180,Biocoop du Léman,These ads ran without a disclaimer,,1
 17855,107286488167111,Représentant régional Dyson,These ads ran without a disclaimer,,2
+18685,1430239797248971,Biocoop Les Iris,These ads ran without a disclaimer,,1
 19813,560274260746477,E.Leclerc Libourne,These ads ran without a disclaimer,,1
 20421,273676492713326,Crédit Agricole Normandie-Seine,These ads ran without a disclaimer,,1
 21176,100803965179923,Schneider Electric Solar,These ads ran without a disclaimer,,1
 21294,209090664477388,Shell Broken,These ads ran without a disclaimer,,5
+21340,375268396401149,LinkedIn for Nonprofits,These ads ran without a disclaimer,,1
 21630,1555613408085726,Amazon Sellers' Lawyer,These ads ran without a disclaimer,,1
 21957,119257941437791,Allianz Care,These ads ran without a disclaimer,,1
 22217,2046134355697892,Ricardo Raposo,These ads ran without a disclaimer,,3
 22759,328219278633644,Total Sensory Wellness,These ads ran without a disclaimer,,1
 22931,112219693474756,LES Amazones De Sangomar,These ads ran without a disclaimer,,1
+23642,598787030608113,Disney Tweedles,These ads ran without a disclaimer,,2
 24113,130615026931,Crédit Agricole de la Corse,These ads ran without a disclaimer,,1
+24163,124077133555,Movimiento Ciudadano frente al Cambio Climatico - MOCICC,These ads ran without a disclaimer,,1
 24628,537210996437360,Fondation Crédit Agricole Alpes Provence,These ads ran without a disclaimer,,1
 24675,321923482596608,Recherche Technicien fibre optique D3 Orange,These ads ran without a disclaimer,,1
 24966,1707306166163459,Amazon Business,These ads ran without a disclaimer,,1
 25011,265857076767399,Volvo Car France,These ads ran without a disclaimer,,3
 25277,360695490733965,Huawei Enterprise Service,These ads ran without a disclaimer,,1
 25470,102902515104565,ENGIE OPEN Andrézieux-Bouthéon 42,These ads ran without a disclaimer,,1
+25830,194744437234406,CICD - College for International Co-operation and Development,These ads ran without a disclaimer,,1
+26303,101812225410883,Well Wishers of MP,These ads ran without a disclaimer,,2
 26572,1306086469482572,Ricardo Miranda,These ads ran without a disclaimer,,1
+27048,100145968484563,La Magie de Disneyland Paris au coeur de la Création et de l'Esquisse,These ads ran without a disclaimer,,1
 27549,58290604977,adidas Runtastic,These ads ran without a disclaimer,,1
 27616,44409199155,Amazon Conservation Team,These ads ran without a disclaimer,,1
 28062,1454577358174123,Ricardo Lo Dice,These ads ran without a disclaimer,,1
