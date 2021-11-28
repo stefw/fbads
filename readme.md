@@ -5,6 +5,8 @@ https://www.facebook.com/ads/library/report/?source=archive-landing-page&country
 
 Pour voir les ads, https://www.facebook.com/ads/library/?country=FR&source=ad-report&view_all_page_id=[PAGEID]
 
+Ici, je prépare les datats pour un notebook sur @observablehq
+
 Montant total : 30078454 euros
 
 29841609 euros pour 4383 entités qui ont dépensé plus de 100 euros.
