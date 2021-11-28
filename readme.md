@@ -7,7 +7,7 @@ Pour voir les ads, https://www.facebook.com/ads/library/?country=FR&source=ad-re
 
 Ici, je prépare les datats pour un notebook sur @observablehq
 
-Montant total : 30078454 euros
+Montant total : 30078454 euros (> 30 millions d'euros !)
 
 29841609 euros pour 4383 entités qui ont dépensé plus de 100 euros.
 
