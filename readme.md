@@ -9,4 +9,4 @@ Montant total : 30078454 euros
 
 29841609 euros pour 4383 entités > 100 euros
 
-24491 entités pour 30078454-29841609 = 236845 soit 236845/24491= 9,67 comme investissement moyen
+et donc 24491 entités pour (30078454-29841609) = 236845 soit 236845/24491= 9,67 euros comme investissement moyen pour les autres
