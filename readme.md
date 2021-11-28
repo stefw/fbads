@@ -7,8 +7,8 @@ Pour voir les ads, https://www.facebook.com/ads/library/?country=FR&source=ad-re
 
 Montant total : 30078454 euros
 
-29841609 euros pour 4383 entités > 100 euros
+29841609 euros pour 4383 entités qui ont dépensé plus de 100 euros.
 
-et donc 24491 entités pour (30078454-29841609) = 236845 soit 236845/24491= 9,67 euros comme investissement moyen pour les autres
+et donc 24491 entités ont dépensé (30078454-29841609) = 236845 euros soit 236845/24491= 9,67 euros en moyenne.
 
 Dans son fichier global FB signifie "≤100" quand l'investissement est < à 100 euros. J'ai remplacé cette data par "nul" pour avoir des tableaux calculables.
